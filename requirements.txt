@@ -1,0 +1,2 @@
+# Requires: anti-silence
+# (Not available on PyPI)
